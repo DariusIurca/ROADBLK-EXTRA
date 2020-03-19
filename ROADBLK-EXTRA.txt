@@ -13,3 +13,5 @@
 ||www.sighet247.ro/banners/drenaj-limfatic.gif$image
 ||www.sighet247.ro/banners/test-biorezonanta-2-2019.jpg$image
 ||www.sighet247.ro/banners/banner_euronet.gif$image
+||media.dcnews.ro/nxt/bolero2300x600min.jpg$image
+||media.dcnews.ro/nxt/publicitate_v2.jpg$image
