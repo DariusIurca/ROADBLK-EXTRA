@@ -17,3 +17,8 @@
 ! 3/19/2020 https://media.dcnews.ro
 ||media.dcnews.ro/nxt/bolero2300x600min.jpg$image
 ||media.dcnews.ro/nxt/publicitate_v2.jpg$image
+
+! 3/20/2020 https://www.capital.ro
+||www.capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif$image
+||www.capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg$image
+||www.capital.ro/img/buton_shop.png$image
