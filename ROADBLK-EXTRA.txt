@@ -22,3 +22,8 @@
 ||www.capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif$image
 ||www.capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg$image
 ||www.capital.ro/img/buton_shop.png$image
+
+! 3/22/2020 https://timponline.ro
+||media.timponline.ro/2016/03/2016-03-plan-b-angajare.gif$image
+||media.timponline.ro/2019/10/2019-10-carliont-anunt-300x250.jpg$image
+||media.timponline.ro/2015/04/virgil_rus_298x198.jpg$image
